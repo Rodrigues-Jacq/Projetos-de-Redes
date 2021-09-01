@@ -5,7 +5,6 @@ Criado com a utilização em paralelo ao Packet Tracer - Software disponibilizad
 
 Realizado em: 08/08/2021
 Realizado por: Jacqueline Rodrigues
-E-mail: jacs.rodrigues@gmail.com
 """
 
 # gatpass permite o adicionamento de informações, sem que sejam vistas. Ideal para colocação de senhas.
